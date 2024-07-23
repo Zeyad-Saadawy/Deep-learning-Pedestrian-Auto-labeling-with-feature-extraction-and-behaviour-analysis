@@ -1,7 +1,21 @@
 # Pedestrian Auto-labeling with Feature Extraction and Behaviour Analysis
 
-This project involves processing video files to automatically detect and analyze pedestrian behavior. It leverages the YOLOv8 model for pose estimation and performs frame-by-frame analysis to determine various attributes such as walking/standing status, looking/not looking status, speed, and direction of motion.
+This project involves processing video files to automatically detect and analyze pedestrian behavior. It leverages a deep learning approach with computer vision, specifically using the YOLOv8 model for pose estimation. The project resulted in the creation of the **EGY-Drives dataset**, which features attributes unique worldwide and is not available in any other dataset.
 
+## Key Attributes
+
+- **Walking/Standing Status**: Automatically identifies if a pedestrian is walking or standing.
+- **Looking/Not Looking Status**: Detects whether a pedestrian is looking or not looking.
+- **Speed**: Calculates the speed at which the pedestrian is moving.
+- **Direction of Motion**: Determines the direction in which the pedestrian is moving.
+
+This deep learning-based approach ensures accurate and real-time analysis of pedestrian behavior through frame-by-frame video processing. The resulting EGY-Drives dataset provides unparalleled insights and is a significant contribution to the field of pedestrian detection and behavior analysis.
+
+## Example Video
+
+Here is a short video demonstrating the project in action:
+
+[Watch the Example Video on YouTube](https://youtu.be/qBHLyzyITz4?si=keEcnC-M9YkFEZAZ).
 ## Table of Contents
 
 - [Overview](#overview)
