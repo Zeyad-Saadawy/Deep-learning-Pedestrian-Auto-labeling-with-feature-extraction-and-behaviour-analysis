@@ -1,5 +1,5 @@
 # Pedestrian Auto-labeling with Feature Extraction and Behaviour Analysis
-
+![Example Output](Screenshot.png)
 This project involves processing video files to automatically detect and analyze pedestrian behavior. It leverages a deep learning approach with computer vision, specifically using the YOLOv8 model for pose estimation. The project resulted in the creation of the **EGY-Drives dataset**, which features attributes unique worldwide and is not available in any other dataset.
 
 ## Key Attributes
